@@ -7,7 +7,7 @@
 </head>
 <body>
     <div id="conteudo"></div>
-
+    <?php echo "xvideos" ?>
     <script>
         async function carregarConteudo() {
             try {
